@@ -1,4 +1,0 @@
-D:\Working\VTS Projects\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.dll
-D:\Working\VTS Projects\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.pdb
-D:\Working\VTS Projects\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.dll
-D:\Working\VTS Projects\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.pdb
