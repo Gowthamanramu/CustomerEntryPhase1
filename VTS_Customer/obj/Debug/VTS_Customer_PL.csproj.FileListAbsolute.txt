@@ -1,0 +1,4 @@
+D:\Working\VTS Projects\VTS_Customer\VTS_Customer\bin\VTS_Customer.dll
+D:\Working\VTS Projects\VTS_Customer\VTS_Customer\bin\VTS_Customer.pdb
+D:\Working\VTS Projects\VTS_Customer\VTS_Customer\obj\Debug\VTS_Customer.dll
+D:\Working\VTS Projects\VTS_Customer\VTS_Customer\obj\Debug\VTS_Customer.pdb

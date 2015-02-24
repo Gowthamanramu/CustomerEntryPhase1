@@ -1,0 +1,53 @@
+D:\Working\VTS Projects\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.dll
+D:\Working\VTS Projects\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.pdb
+D:\Working\VTS Projects\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.dll
+D:\Working\VTS Projects\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.pdb
+C:\Users\Priya\Desktop\Dot net Task\VTS Projects [1]\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.dll
+C:\Users\Priya\Desktop\Dot net Task\VTS Projects [1]\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.pdb
+C:\Users\Priya\Desktop\Dot net Task\VTS Projects [1]\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS.Customer.IL.csprojResolveAssemblyReference.cache
+C:\Users\Priya\Desktop\Dot net Task\VTS Projects [1]\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.dll
+C:\Users\Priya\Desktop\Dot net Task\VTS Projects [1]\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.pdb
+C:\Users\Nature\Documents\Received Files\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.dll
+C:\Users\Nature\Documents\Received Files\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.pdb
+C:\Users\Nature\Documents\Received Files\VTS_Customer\VTS_Customer_IL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nature\Documents\Received Files\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.dll
+C:\Users\Nature\Documents\Received Files\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.pdb
+D:\VTS\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.dll
+D:\VTS\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.pdb
+D:\VTS\VTS_Customer\VTS_Customer_IL\obj\Debug\ResolveAssemblyReference.cache
+D:\VTS\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.dll
+D:\VTS\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.pdb
+C:\Users\Prakash\Documents\Received Files\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.dll
+C:\Users\Prakash\Documents\Received Files\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.pdb
+C:\Users\Prakash\Documents\Received Files\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS.Customer.IL.csprojResolveAssemblyReference.cache
+C:\Users\Prakash\Documents\Received Files\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.dll
+C:\Users\Prakash\Documents\Received Files\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.pdb
+E:\VTS\New folder\VTS_Customer Entry\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.dll
+E:\VTS\New folder\VTS_Customer Entry\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.pdb
+E:\VTS\New folder\VTS_Customer Entry\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS.Customer.IL.csprojResolveAssemblyReference.cache
+E:\VTS\New folder\VTS_Customer Entry\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.dll
+E:\VTS\New folder\VTS_Customer Entry\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.pdb
+C:\Users\Priya\Desktop\VTS_Customer [1]\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.dll
+C:\Users\Priya\Desktop\VTS_Customer [1]\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.pdb
+C:\Users\Priya\Desktop\VTS_Customer [1]\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.dll
+C:\Users\Priya\Desktop\VTS_Customer [1]\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.pdb
+C:\Users\Priya\Desktop\Code backup\VTS_Customer [1]\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.dll
+C:\Users\Priya\Desktop\Code backup\VTS_Customer [1]\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.pdb
+C:\Users\Priya\Desktop\Code backup\VTS_Customer [1]\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.dll
+C:\Users\Priya\Desktop\Code backup\VTS_Customer [1]\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.pdb
+C:\Users\Priya\Desktop\Code backup\VTS_Customer [1]\VTS_Customer_IL\obj\Debug\VTS.Customer.IL.csprojResolveAssemblyReference.cache
+C:\Users\Prakash\Documents\Received Files\VTS_Customer [1]\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.dll
+C:\Users\Prakash\Documents\Received Files\VTS_Customer [1]\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.pdb
+C:\Users\Prakash\Documents\Received Files\VTS_Customer [1]\VTS_Customer_IL\obj\Debug\VTS.Customer.IL.csprojResolveAssemblyReference.cache
+C:\Users\Prakash\Documents\Received Files\VTS_Customer [1]\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.dll
+C:\Users\Prakash\Documents\Received Files\VTS_Customer [1]\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.pdb
+C:\Users\Priya\Desktop\Final VTS_Customer Entry\VTS_Source code\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.dll
+C:\Users\Priya\Desktop\Final VTS_Customer Entry\VTS_Source code\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.pdb
+C:\Users\Priya\Desktop\Final VTS_Customer Entry\VTS_Source code\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS.Customer.IL.csprojResolveAssemblyReference.cache
+C:\Users\Priya\Desktop\Final VTS_Customer Entry\VTS_Source code\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.dll
+C:\Users\Priya\Desktop\Final VTS_Customer Entry\VTS_Source code\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.pdb
+E:\Dot net project\VTS_Customer Entry(Client Demo)\VTS_Source code\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.dll
+E:\Dot net project\VTS_Customer Entry(Client Demo)\VTS_Source code\VTS_Customer\VTS_Customer_IL\bin\Debug\VTS_Customer_IL.pdb
+E:\Dot net project\VTS_Customer Entry(Client Demo)\VTS_Source code\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS.Customer.IL.csprojResolveAssemblyReference.cache
+E:\Dot net project\VTS_Customer Entry(Client Demo)\VTS_Source code\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.dll
+E:\Dot net project\VTS_Customer Entry(Client Demo)\VTS_Source code\VTS_Customer\VTS_Customer_IL\obj\Debug\VTS_Customer_IL.pdb
