@@ -1,0 +1,9 @@
+C:\Users\Priya\Desktop\VTS_Customer [1]\VTS_Customer_IL\bin\Release\VTS_Customer_IL.dll
+C:\Users\Priya\Desktop\VTS_Customer [1]\VTS_Customer_IL\bin\Release\VTS_Customer_IL.pdb
+C:\Users\Priya\Desktop\VTS_Customer [1]\VTS_Customer_IL\obj\Release\VTS_Customer_IL.dll
+C:\Users\Priya\Desktop\VTS_Customer [1]\VTS_Customer_IL\obj\Release\VTS_Customer_IL.pdb
+C:\Users\Priya\Desktop\Final VTS_Customer Entry\VTS_Source code\VTS_Customer\VTS_Customer_IL\bin\Release\VTS_Customer_IL.dll
+C:\Users\Priya\Desktop\Final VTS_Customer Entry\VTS_Source code\VTS_Customer\VTS_Customer_IL\bin\Release\VTS_Customer_IL.pdb
+C:\Users\Priya\Desktop\Final VTS_Customer Entry\VTS_Source code\VTS_Customer\VTS_Customer_IL\obj\Release\VTS.Customer.IL.csprojResolveAssemblyReference.cache
+C:\Users\Priya\Desktop\Final VTS_Customer Entry\VTS_Source code\VTS_Customer\VTS_Customer_IL\obj\Release\VTS_Customer_IL.dll
+C:\Users\Priya\Desktop\Final VTS_Customer Entry\VTS_Source code\VTS_Customer\VTS_Customer_IL\obj\Release\VTS_Customer_IL.pdb
